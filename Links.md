@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-12 20:10 (IR Time)
+- 📥 **[mhrv-rs-windows-amd64.zip](https://github.com/honeybee-123456/jahan.downloader.v2/raw/main/dl/mhrv-rs-windows-amd64.zip)**
+
+
 ### 📅 2026-05-10 14:32 (IR Time)
 - 📥 **[mhrv-rs-android-arm64-v8a-v1.9.18.apk](https://github.com/honeybee-123456/jahan.downloader.v2/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.18.apk)**
 
